@@ -11,3 +11,8 @@ We have to take the value of n as input and then we have to output a chess board
 
 # Logic of the solution
 
+We can do this problem with the concept of recursione.
+
+So to solve this problem we will simply 
+
+First of all we will make a funciton which will tell us that if the positions of queens which we have given to the function as input is valid or not (acccording to the conditions of problem statement).
