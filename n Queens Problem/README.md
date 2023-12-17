@@ -11,7 +11,7 @@ We have to take the value of n as input and then we have to output a chess board
 
 # Logic of the solution
 
-We can do this problem with the concept of recursion.
+We can do this problem with the concept of Backtracking.
 So to solve this problem we will simply place a queen one by one on a row where it can be placed and then with all the posibility of placing that in the row we will again call the function to place another queen and if we find that that particular position for the queen is not possible for that row then we will not recall it because then we will be sure that it is going to break the rules. So here as you can see that the positions of a queen in a row totally depends on the previous positions of queen which we have placed previously. So recursion tree of this recursion will look like below. (Given tree is for 4*4 chess board)
 
 
