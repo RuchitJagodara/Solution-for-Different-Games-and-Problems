@@ -9,3 +9,5 @@ In this repository, you can find different folders with the name of a game or cl
 # Contact 
 
 If you find any discrepancy in the code or you have any other solution which is more efficient than the given program then please write a mail me on the email ID ruchit.jagodara@iitgn.ac.in
+
+Note : If you want solutions of some other problems and games then just text me I will be happy to develop a solution for that and will include that in the repo.
